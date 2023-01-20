@@ -13,3 +13,28 @@ edited by Luca Bottero and Elia Cellini
   <li>TBA-<b>Lezione 8</b>: Deep Learning</li>
   <li>TBA-<b>Lezione 9/10</b>: Laboratori MLJC</li>
 </ul>
+
+Referenze principali:
+<ul>
+  <li><a href="https://work.caltech.edu/telecourse">Learning from Data: A Short Course</a>, Abu-Mostafa and Magdon-Ismail</li>
+  <li><a href="https://arxiv.org/abs/1803.08823/">A high-bias, low-variance introduction to Machine Learning for physicists</a>, Pankaj Mehta et al.</li>
+  <li><a href="https://www.deeplearningbook.org/">Deep Learning</a>, Ian Goodfellow, Yoshua Bengio and Aaron Courville</li>
+  <li><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">, Pattern Recognition and Machine Learning</a> Christopher Bishop </li>
+  <li><a href="https://github.com/abhishekkrthakur/approachingalmost
+">Approaching (Almost) Any Machine Learning Problem</a>, Abhishek Thakur</li>
+</ul>
+<br>
+
+Rapido tutorial su Colab e python: <table class="tfo-notebook-buttons" align="left">
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+  </td>
+  <td>
+    <a target="_blank" href="https://github.com/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+  </td>
+</table>
+<br>
+<br>
+<br>
+<! --
+Serie di tutorial sul deep learning: https://github.com/phlippe/uvadlc_notebooks-->
