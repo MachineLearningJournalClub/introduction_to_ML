@@ -19,7 +19,7 @@ Referenze principali:
   <li><a href="https://work.caltech.edu/telecourse">Learning from Data: A Short Course</a>, Abu-Mostafa and Magdon-Ismail</li>
   <li><a href="https://arxiv.org/abs/1803.08823/">A high-bias, low-variance introduction to Machine Learning for physicists</a>, Pankaj Mehta et al.</li>
   <li><a href="https://www.deeplearningbook.org/">Deep Learning</a>, Ian Goodfellow, Yoshua Bengio and Aaron Courville</li>
-  <li><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">, Pattern Recognition and Machine Learning</a> Christopher Bishop </li>
+  <li><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Pattern Recognition and Machine Learning</a>, Christopher Bishop </li>
   <li><a href="https://github.com/abhishekkrthakur/approachingalmost
 ">Approaching (Almost) Any Machine Learning Problem</a>, Abhishek Thakur</li>
 </ul>
@@ -38,3 +38,6 @@ Rapido tutorial su Colab e python: <table class="tfo-notebook-buttons" align="le
 <br>
 <! --
 Serie di tutorial sul deep learning: https://github.com/phlippe/uvadlc_notebooks-->
+
+
+<img src="https://github.com/eliacellini/introduction_to_ML/blob/85e3e0e2ea7af96c85b5ab91158f7e7c4ce62dd4/124-new-model.png" width=50% height=50%>
