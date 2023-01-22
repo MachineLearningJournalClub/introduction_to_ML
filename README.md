@@ -1,5 +1,5 @@
 # introduction_to_ML
-A short machine learning course organized by the [Machine Learning Journal Club](https://www.mljc.it/) <br>
+A short machine learning course held by the [Machine Learning Journal Club](https://www.mljc.it/) <br>
 edited by Luca Bottero and Elia Cellini
 
 <ul>
