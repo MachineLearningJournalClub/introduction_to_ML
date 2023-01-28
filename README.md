@@ -7,7 +7,7 @@ edited by Luca Bottero and Elia Cellini
   <li>24/01/23-<b>Lezione 2</b>: Regressione Lineare <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/42baede2334e457e905bfd0e1163faf01943df0e/Lez2LinearRegression.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> <a href="https://www.youtube.com/watch?v=SF2YaSnax18">Video</a></li> 
-  <li>TBA-<b>Lezione 3</b>: Regressione Logistica </li>
+  <li>1/02/23-Aula C-<b>Lezione 3</b>: Regressione Logistica </li>
   <li>TBA-<b>Lezione 4</b>: Explore Classifier with <a href="https://scikit-learn.org/stable/">scikit-learn</a></li>
   <li>TBA-<b>Lezione 5</b>: Unsupervised Learning classico</li>
   <li>TBA-<b>Lezione 6</b>: Reti Neurali</li>
