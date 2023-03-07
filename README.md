@@ -12,7 +12,7 @@ edited by Luca Bottero and Elia Cellini
   <li>8/02/23-Aula C-<b>Lezione 4</b>: Explore Classifier with <a href="https://scikit-learn.org/stable/">scikit-learn</a><a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/4fa7a99611d83513daa8807f9100e85736417ba7/Lez4ExploreClassifier.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><a href="https://www.youtube.com/watch?v=VxZ3kfxKqGo">Video</a></li>
-   <li>TBA-<b>Lezione 5</b>: Reti Neurali e ottimizzatori (SGD, RMSprop, Adam..)</li>
+   <li>8/03/23-Aula Avogadro-<b>Lezione 5</b>: Reti Neurali e ottimizzatori (SGD, RMSprop, Adam..)</li>
   <li>TBA-<b>Lezione 6</b>: Reti Neurali Convoluzionali</li>
   <li>TBA-<b>Lezione 7</b>: Unsupervised Learning classico</li>
   <li>TBA-<b>Lezione 8</b>: Deep Learning</li>
