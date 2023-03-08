@@ -15,7 +15,7 @@ edited by Luca Bottero and Elia Cellini
    <li>8/03/23-Aula Avogadro-<b>Lezione 5</b>: Reti Neurali fully connected e ottimizzatori (SGD, RMSprop, Adam..)</li>
   <li>TBA-<b>Lezione 6</b>: Reti Neurali Convoluzionali e Deep Learning</li>
   <li>TBA-<b>Lezione 7</b>: Unsupervised Learning classico</li>
-  <li>TBA-<b>Lezione 9/10</b>: Laboratori MLJC</li>
+  <li>TBA: Laboratori MLJC</li>
 </ul>
 
 
