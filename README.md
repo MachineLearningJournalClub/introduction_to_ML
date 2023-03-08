@@ -9,13 +9,12 @@ edited by Luca Bottero and Elia Cellini
 </a> <a href="https://www.youtube.com/watch?v=SF2YaSnax18">Video</a></li> 
   <li>1/02/23-<b>Lezione 3</b>: Regressione Logistica <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/fb3f4aa84d44663b1f4c01fe0dd9644774a2d009/Lez3LogisticReg.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><a href="https://www.youtube.com/watch?v=TVvCZBjUfMA">Video</a></li>
-  <li>8/02/23-Aula C-<b>Lezione 4</b>: Explore Classifier with <a href="https://scikit-learn.org/stable/">scikit-learn</a><a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/4fa7a99611d83513daa8807f9100e85736417ba7/Lez4ExploreClassifier.ipynb">
+  <li>8/02/23<b>Lezione 4</b>: Explore Classifier with <a href="https://scikit-learn.org/stable/">scikit-learn</a><a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/4fa7a99611d83513daa8807f9100e85736417ba7/Lez4ExploreClassifier.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><a href="https://www.youtube.com/watch?v=VxZ3kfxKqGo">Video</a></li>
-   <li>8/03/23-Aula Avogadro-<b>Lezione 5</b>: Reti Neurali e ottimizzatori (SGD, RMSprop, Adam..)</li>
-  <li>TBA-<b>Lezione 6</b>: Reti Neurali Convoluzionali</li>
+   <li>8/03/23-Aula Avogadro-<b>Lezione 5</b>: Reti Neurali fully connected e ottimizzatori (SGD, RMSprop, Adam..)</li>
+  <li>TBA-<b>Lezione 6</b>: Reti Neurali Convoluzionali e Deep Learning</li>
   <li>TBA-<b>Lezione 7</b>: Unsupervised Learning classico</li>
-  <li>TBA-<b>Lezione 8</b>: Deep Learning</li>
   <li>TBA-<b>Lezione 9/10</b>: Laboratori MLJC</li>
 </ul>
 
