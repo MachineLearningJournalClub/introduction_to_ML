@@ -12,9 +12,9 @@ edited by Luca Bottero and Elia Cellini
   <li>8/02/23-<b>Lezione 4</b>: Explore Classifier with <a href="https://scikit-learn.org/stable/">scikit-learn</a><a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/4fa7a99611d83513daa8807f9100e85736417ba7/Lez4ExploreClassifier.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><a href="https://www.youtube.com/watch?v=VxZ3kfxKqGo">Video</a></li>
-   <li>8/03/23-Aula Avogadro-<b>Lezione 5</b>: Reti Neurali fully connected e ottimizzatori (SGD, RMSprop, Adam..) <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/038e8438ff07ce8da3c1b9472c853226663d5483/Lezione5MLP.ipynb">
+   <li>8/03/23-<b>Lezione 5</b>: Reti Neurali fully connected e ottimizzatori (SGD, RMSprop, Adam..) <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/038e8438ff07ce8da3c1b9472c853226663d5483/Lezione5MLP.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></li>
+</a><a href="https://www.youtube.com/watch?v=LEMdZ3KIldI">Video</a></li>
   <li>TBA-<b>Lezione 6</b>: Reti Neurali Convoluzionali e Deep Learning</li>
   <li>TBA-<b>Lezione 7</b>: Unsupervised Learning classico</li>
   <li>TBA: Laboratori MLJC</li>
