@@ -33,6 +33,8 @@ Referenze principali:
 </ul>
 <br>
 
+Serie di tutorial sul Deep Learning in PyTorch e Jax: <a href="https://uvadlc-notebooks.readthedocs.io/en/latest/">Tutorial</a>
+
 Rapido tutorial su Colab e python: <table class="tfo-notebook-buttons" align="left">
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
