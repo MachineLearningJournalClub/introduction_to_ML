@@ -19,7 +19,7 @@ edited by Luca Bottero and Elia Cellini
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </a></li>
-  <li>22/03/23-<b>Lezione 7</b>: Deep Generative Models: Autoencoder e Generative Adversarial Networks</li>
+  <li>22/03/23-14.00-<b>Lezione 7</b>: Deep Generative Models: Autoencoder e Generative Adversarial Networks</li>
   <li>TBA-<b>Lezione 8</b>: Continual Learning</li>
 </ul>
 
