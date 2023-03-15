@@ -15,7 +15,9 @@ edited by Luca Bottero and Elia Cellini
    <li>8/03/23-<b>Lezione 5</b>: Reti Neurali fully connected e ottimizzatori (SGD, RMSprop, Adam..) <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/038e8438ff07ce8da3c1b9472c853226663d5483/Lezione5MLP.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><a href="https://www.youtube.com/watch?v=LEMdZ3KIldI">Video</a></li>
-  <li>15/03/23-14.00-Aula Verde-<b>Lezione 6</b>: Reti Neurali Convoluzionali e Deep Residual NNs</li>
+  <li>15/03/23-14.00-Aula Verde-<b>Lezione 6</b>: Reti Neurali Convoluzionali e Deep Residual NNs <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/86ac6fff8cdf3714a0e15cc354ba45907198f08e/CNN_and_ResNN.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a></li>
   <li>TBA-<b>Lezione 7</b>: Deep Generative Models: Autoencoder e Generative Adversarial Networks</li>
   <li>TBA-<b>Lezione 8</b>: Continual Learning</li>
 </ul>
