@@ -19,7 +19,11 @@ edited by Luca Bottero and Elia Cellini
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </a></li>
-  <li>22/03/23-14.00-Aula Wataghin<b>Lezione 7</b>: Autoencoder e Generative Adversarial Networks</li>
+  <li>22/03/23-14.00-Aula Wataghin-<b>Lezione 7</b>: Autoencoder <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/0397f15cedda6e076b589c3414a66bede02f4b17/Lez7Autoencoder.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> e Generative Adversarial Networks <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/0397f15cedda6e076b589c3414a66bede02f4b17/Lez7GenerativeAdversarialNetworks.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a></li>
   <li>TBA-<b>Lezione 8</b>: Continual Learning</li>
 </ul>
 
