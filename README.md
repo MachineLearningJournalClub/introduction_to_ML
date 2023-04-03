@@ -24,9 +24,11 @@ edited by Luca Bottero and Elia Cellini
 </a> e GANs <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/0397f15cedda6e076b589c3414a66bede02f4b17/Lez7GenerativeAdversarialNetworks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></li>
-  <li>3/4/23-17.00-Aula Verde-<b>Lezione 8</b>: Continual Learning</li>
+  <li>3/4/23-17.00-Aula Verde-<b>Lezione 8</b>: Continual Learning <a href="https://github.com/luca-bottero/CL_Introduction_Toolbox_12-04-22">Github</a>
+<a target="_blank" href="https://colab.research.google.com/github/luca-bottero/CL_Introduction_Toolbox_12-04-22/blob/322b36605139c8e6c9b026ec27b2be233c463a0c/continual_learning_introduction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> </li>
 </ul>
-
 
 
 Referenze principali:
