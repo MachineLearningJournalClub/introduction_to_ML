@@ -2,6 +2,8 @@
 A short machine learning course held by the [Machine Learning Journal Club](https://www.mljc.it/) <br>
 edited by Luca Bottero and Elia Cellini
 
+ <a href="https://www.youtube.com/playlist?list=PLlyk99CdE2_Ji1A9zWbKKfM4C0Fwijf1y">Playlist video lezioni</a>
+
 <ul>
   <li>17/01/23-<b>Lezione 1</b>: Introduzione </li>
   <li>24/01/23-<b>Lezione 2</b>: Regressione Lineare <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/42baede2334e457e905bfd0e1163faf01943df0e/Lez2LinearRegression.ipynb">
@@ -18,16 +20,16 @@ edited by Luca Bottero and Elia Cellini
   <li>15/03/23-<b>Lezione 6</b>: Reti Neurali Convoluzionali e Deep Residual NNs <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/1fa8a37f84ccef400e6726528479d83bc50a8552/Lez6CNN_and_ResNN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-</a></li>
+</a><a href="https://www.youtube.com/watch?v=RP5UMx_w0kk">Video</a></li>
   <li>22/03/23-<b>Lezione 7</b>: Autoencoder <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/0397f15cedda6e076b589c3414a66bede02f4b17/Lez7Autoencoder.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> e GANs <a target="_blank" href="https://colab.research.google.com/github/eliacellini/introduction_to_ML/blob/0397f15cedda6e076b589c3414a66bede02f4b17/Lez7GenerativeAdversarialNetworks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></li>
-  <li>3/4/23-17.00-Aula Verde-<b>Lezione 8</b>: Continual Learning <a href="https://github.com/luca-bottero/CL_Introduction_Toolbox_12-04-22">Github</a>
+</a><a href="https://www.youtube.com/watch?v=6VTPfbR9K8Y">Video</a></li>
+  <li>3/4/23-<b>Lezione 8</b>: Continual Learning <a href="https://github.com/luca-bottero/CL_Introduction_Toolbox_12-04-22">Github</a>
 <a target="_blank" href="https://colab.research.google.com/github/luca-bottero/CL_Introduction_Toolbox_12-04-22/blob/322b36605139c8e6c9b026ec27b2be233c463a0c/continual_learning_introduction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> </li>
+</a> <a href="https://www.youtube.com/watch?v=JqTFuGuRrfM&list=PLlyk99CdE2_Ji1A9zWbKKfM4C0Fwijf1y&index=7">Video</a> </li>
 </ul>
 
 
